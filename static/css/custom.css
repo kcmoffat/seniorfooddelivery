@@ -1,0 +1,30 @@
+h1.meal-plan-price {
+	color:green;
+}
+
+ul.states {
+	list-style: none;
+}
+
+ul.states h6 {
+	text-transform: uppercase;
+	color: "text-primary";
+}
+
+ul.states ul {
+	border-bottom: 1px solid #ecf0f1;
+}
+
+ul.cities li {
+	display:inline-block;
+	width: 24%;
+	padding: 3px 0;
+}
+div.jumbotron { 
+  background: url(../images/oldman.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color:white;
+}
